@@ -7,6 +7,10 @@ import sys
 import hello
 from PyQt5.QtWidgets import QApplication, QMainWindow
 
+
+class MyMainWindows
+
+
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     MainWindow = QMainWindow()
