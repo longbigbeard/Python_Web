@@ -1,0 +1,19 @@
+.logo{
+    width: 100px;
+}
+
+.main{
+    width: 730px;
+    background: #ffffff;
+    margin:0 auto;
+    overflow: hidden;
+}
+
+body{
+    background: #3f3f3f;
+}
+
+.page-title{
+    text-align: center;
+    margin: 20px auto;
+}
